@@ -7,7 +7,7 @@ import { crearDeck, pedirCarta, valorCarta, turnoComputadora, crearCartaHTML } f
  * 2H = Two of Hearts
  * 2S = Two of Spades
  */
-
+/**HOLA MUNDO */
  let deck         = [];
  const tipos      = ['C','D','H','S'];
  const especiales = ['A','J','Q','K'];
